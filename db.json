@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Kanny Mohammed",
+      "image": "img",
+      "price": "0.01",
+      "id": 8
+    },
+    {
+      "name": "sunFlower",
+      "image": "./images/zz-plant.jpg",
+      "price": "1.17",
+      "id": 9
     }
   ]
 }
